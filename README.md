@@ -18,7 +18,7 @@ Languages:
 
 # Overview 🔎
 
-## 🌍 View animation : ➡️
+## 🌍 View animation : ➡️ https://sarah-jpro.github.io/Shooting-Stars-Rain/
 
 <p align="center">
  <img src="img\vue-project.jpeg" width="400">
